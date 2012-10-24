@@ -1,0 +1,40 @@
+{
+  "name": "bear",
+  "description": "The Bear CMS",
+  "version": "0.1.0",
+  "homepage": "https://github.com/tvooo/bear",
+  "author": {
+    "name": "Tim von Oldenburg",
+    "email": "tim@voldenburg.com",
+    "url": "http://tvooo.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tim/bear.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tim/bear/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tvooo/bear/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/bear",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "markdown": "~0.4.0",
+    "handlebars": "~1.0.7",
+    "director": "~1.1.6"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.15"
+  },
+  "keywords": []
+}
