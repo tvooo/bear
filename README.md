@@ -25,6 +25,7 @@ bear.run( config );
 ```
 
 ## Documentation
+
 ### Configuration
 
 The `config` object passed to `bear.run()` can have the following properties:
@@ -39,7 +40,7 @@ The `config` object passed to `bear.run()` can have the following properties:
     * `'404'` is the path to your 404 page
     * `favicon`is the location of your Favicon
 
-## Examples
+### Document Metadata
 _(Coming soon)_
 
 ## Contributing
