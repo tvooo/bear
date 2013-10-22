@@ -33,7 +33,7 @@
     "handlebars": "~1.0.7",
     "director": "~1.1.6",
     "mime": "~1.2.7",
-    "async": "0.1.22"
+    "wrench": "~1.5.1"
   },
   "devDependencies": {
     "grunt": "~0.3.15"
